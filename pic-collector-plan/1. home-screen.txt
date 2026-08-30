@@ -1,0 +1,8 @@
+This is the description of home screen. The corresponding file is home_screen.dart
+
+The purpose is to have at the bottom of the screen 5 buttons. From left to the right, the buttons will move the user
+to the following screens:
+button1: home_screen -> we are here. in this screen I want at the top a search bar to search groups and right of this search bar
+I want a plus button to create a new group. In the body of the screen I want to have a scrollable list of different groups. Note that
+each group will be able to tap it like a button in order to see the content of it(multiple sub-groups that lead to groups of photos).
+Also each button group will have an info label. when user tabs it, it will show a description for the corresponding group.
